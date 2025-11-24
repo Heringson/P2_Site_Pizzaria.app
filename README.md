@@ -68,10 +68,11 @@
    1. Backend
 ```bash
 pizzaone/backend
-cd backend
-npm install
-npm run server
-```         
+cd backend 
+```
+    npm install
+    npm run server
+         
    O backend iniciará em:
 ```
 http://localhost:3000
