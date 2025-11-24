@@ -149,8 +149,7 @@ O que esse comando faz:
 
 
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/33a97b01-b790-4ee0-a7b0-eac582dcdd05" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c38b2179-fd24-43ab-8c25-3192c1c67529" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/33a97b01-b790-4ee0-a7b0-eac582dcdd05" /><img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c38b2179-fd24-43ab-8c25-3192c1c67529" />
 
 
 
