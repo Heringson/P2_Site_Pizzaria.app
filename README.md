@@ -25,7 +25,6 @@
 
 * Frontend
    * React 19
-   * Rapidamente 7
    * CSS
    * Ícones Lucide
    * Recartas
