@@ -26,6 +26,7 @@
 * Frontend
    * React 19
    * CSS
+   * Tailwind CSS
    * Ícones Lucide
    * Recartas
    * Modo escuro
