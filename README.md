@@ -26,9 +26,7 @@
 * Frontend
    * React 19
    * CSS
-   * Tailwind CSS
    * Ícones Lucide
-   * Recartas
    * Modo escuro
    * Componentização avançada
 * Backend
@@ -146,11 +144,12 @@ O que esse comando faz:
     npm run server
 * <img width="700" height="180" alt="image" src="https://github.com/user-attachments/assets/a5cd7882-11e8-4ac9-94d1-9fef45b66559" />
  # FRONT-END
- <img width="800" height="590" alt="image" src="https://github.com/user-attachments/assets/568c0a6f-fbed-4599-ad4b-103c5fa2db01" />
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/89b0e9f7-6de6-4517-a846-48caff580ed8" />
+
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/96e3db1c-9b20-4960-8bbf-269a0e41df24" /><img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/98a37a93-5944-4573-8806-2348b43fda1b" />
 
 
-
-<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/33a97b01-b790-4ee0-a7b0-eac582dcdd05" /><img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/c38b2179-fd24-43ab-8c25-3192c1c67529" />
 
 
 
